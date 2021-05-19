@@ -1,0 +1,11 @@
+C:\Users\birha\source\repos\OOPPROJECT\BusinessLogicLateyer\bin\Debug\BusinessLogicLateyer.dll
+C:\Users\birha\source\repos\OOPPROJECT\BusinessLogicLateyer\bin\Debug\BusinessLogicLateyer.pdb
+C:\Users\birha\source\repos\OOPPROJECT\BusinessLogicLateyer\bin\Debug\DataAccesLayer.dll
+C:\Users\birha\source\repos\OOPPROJECT\BusinessLogicLateyer\bin\Debug\ENTITYLAYER.dll
+C:\Users\birha\source\repos\OOPPROJECT\BusinessLogicLateyer\bin\Debug\DataAccesLayer.pdb
+C:\Users\birha\source\repos\OOPPROJECT\BusinessLogicLateyer\bin\Debug\ENTITYLAYER.pdb
+C:\Users\birha\source\repos\OOPPROJECT\BusinessLogicLateyer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\birha\source\repos\OOPPROJECT\BusinessLogicLateyer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\birha\source\repos\OOPPROJECT\BusinessLogicLateyer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\birha\source\repos\OOPPROJECT\BusinessLogicLateyer\obj\Debug\BusinessLogicLateyer.dll
+C:\Users\birha\source\repos\OOPPROJECT\BusinessLogicLateyer\obj\Debug\BusinessLogicLateyer.pdb

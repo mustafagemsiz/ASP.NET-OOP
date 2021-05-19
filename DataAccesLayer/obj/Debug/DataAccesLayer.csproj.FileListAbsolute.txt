@@ -1,0 +1,9 @@
+C:\Users\birha\source\repos\OOPPROJECT\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\birha\source\repos\OOPPROJECT\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\birha\source\repos\OOPPROJECT\DataAccesLayer\bin\Debug\ENTITYLAYER.dll
+C:\Users\birha\source\repos\OOPPROJECT\DataAccesLayer\bin\Debug\ENTITYLAYER.pdb
+C:\Users\birha\source\repos\OOPPROJECT\DataAccesLayer\obj\Debug\DataAccesLayer.csprojAssemblyReference.cache
+C:\Users\birha\source\repos\OOPPROJECT\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\birha\source\repos\OOPPROJECT\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\birha\source\repos\OOPPROJECT\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\birha\source\repos\OOPPROJECT\DataAccesLayer\obj\Debug\DataAccesLayer.pdb

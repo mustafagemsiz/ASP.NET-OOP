@@ -1,0 +1,6 @@
+C:\Users\birha\source\repos\OOPPROJECT\ENTITYLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\birha\source\repos\OOPPROJECT\ENTITYLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\birha\source\repos\OOPPROJECT\ENTITYLAYER\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\birha\source\repos\OOPPROJECT\ENTITYLAYER\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\birha\source\repos\OOPPROJECT\ENTITYLAYER\obj\Debug\ENTITYLAYER.dll
+C:\Users\birha\source\repos\OOPPROJECT\ENTITYLAYER\obj\Debug\ENTITYLAYER.pdb
